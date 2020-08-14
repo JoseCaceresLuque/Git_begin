@@ -1,1 +1,4 @@
 this will be a new config file
+
+#First config entry
+Config:default
